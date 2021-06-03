@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".g1_fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="200dp"
+        android:background="@drawable/custom_button"
+        android:text="FORT AGUADA"
+        android:textColor="#FA71CD" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="260dp"
+        android:background="@drawable/custom_button"
+        android:text="DUDHSAGAR FALLS"
+        android:textColor="#FA71CD" />
+
+    <Button
+        android:id="@+id/button14"
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="320dp"
+        android:background="@drawable/custom_button"
+        android:text="TITOS STREET"
+        android:textColor="#FA71CD" />
+
+    <Button
+        android:id="@+id/button15"
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="380dp"
+        android:background="@drawable/custom_button"
+        android:text="CANACONA"
+        android:textColor="#FA71CD" />
+
+    <Button
+        android:id="@+id/button16"
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="440dp"
+        android:background="@drawable/custom_button"
+        android:text="PALOLEM BEACH"
+        android:textColor="#FA71CD" />
+
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/custom_button"
+        android:text="GOA"
+        android:textColor="#FA71CD"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/g1"
+        android:onClick="g1"
+        android:layout_width="53dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="200dp"
+        android:background="@drawable/round_button"
+        android:textColor="@color/white"
+        android:text="D" />
+
+    <Button
+        android:id="@+id/g2"
+        android:layout_width="53dp"
+        android:onClick="g2"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="260dp"
+        android:background="@drawable/round_button"
+        android:textColor="@color/white"
+        android:text="D" />
+
+    <Button
+        android:id="@+id/g3"
+        android:layout_width="53dp"
+        android:onClick="g3"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="320dp"
+        android:background="@drawable/round_button"
+        android:textColor="@color/white"
+        android:text="D" />
+
+    <Button
+        android:id="@+id/g4"
+        android:layout_width="53dp"
+        android:onClick="g4"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="380dp"
+        android:background="@drawable/round_button"
+        android:textColor="@color/white"
+        android:text="D" />
+
+    <Button
+        android:id="@+id/g5"
+        android:layout_width="53dp"
+        android:onClick="g5"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="440dp"
+        android:background="@drawable/round_button"
+        android:textColor="@color/white"
+        android:text="D" />
+
+
+</FrameLayout>

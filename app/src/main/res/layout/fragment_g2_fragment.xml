@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".g2_fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="200dp"
+        android:background="@drawable/custom_button2"
+        android:text="BAGA BEACH"
+        android:textColor="@color/whatsAppcolor" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="260dp"
+        android:background="@drawable/custom_button2"
+        android:text="CLUB CUBANA"
+        android:textColor="@color/whatsAppcolor" />
+
+    <Button
+        android:id="@+id/button14"
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="320dp"
+        android:background="@drawable/custom_button2"
+        android:text="ANJUNA-CURLIES"
+        android:textColor="@color/whatsAppcolor" />
+
+    <Button
+        android:id="@+id/button15"
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="380dp"
+        android:background="@drawable/custom_button2"
+        android:text="CASINO-CRUISE"
+        android:textColor="@color/whatsAppcolor" />
+
+    <Button
+        android:id="@+id/button16"
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="440dp"
+        android:background="@drawable/custom_button2"
+        android:text="ANJUNA FLEA MARKET"
+        android:textColor="@color/whatsAppcolor" />
+
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/custom_button2"
+        android:text="GOA"
+        android:textColor="@color/whatsAppcolor"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/g6"
+        android:onClick="g6"
+        android:layout_width="53dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="200dp"
+        android:background="@drawable/round_button"
+        android:textColor="@color/white"
+        android:text="D" />
+
+    <Button
+        android:id="@+id/g7"
+        android:layout_width="53dp"
+        android:onClick="g7"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="260dp"
+        android:background="@drawable/round_button"
+        android:textColor="@color/white"
+        android:text="D" />
+
+    <Button
+        android:id="@+id/g8"
+        android:layout_width="53dp"
+        android:onClick="g8"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="320dp"
+        android:background="@drawable/round_button"
+        android:textColor="@color/white"
+        android:text="D" />
+
+    <Button
+        android:id="@+id/g9"
+        android:layout_width="53dp"
+        android:onClick="g9"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="380dp"
+        android:background="@drawable/round_button"
+        android:textColor="@color/white"
+        android:text="D" />
+
+    <Button
+        android:id="@+id/g10"
+        android:layout_width="53dp"
+        android:onClick="g10"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="440dp"
+        android:background="@drawable/round_button"
+        android:textColor="@color/white"
+        android:text="D" />
+
+
+
+</FrameLayout>

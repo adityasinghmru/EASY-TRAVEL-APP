@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".hp2_fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="200dp"
+        android:background="@drawable/custom_button2"
+        android:text="DHARAMSHALA"
+        android:textColor="@color/whatsAppcolor" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="260dp"
+        android:background="@drawable/custom_button2"
+        android:text="SHIMLA"
+        android:textColor="@color/whatsAppcolor" />
+
+    <Button
+        android:id="@+id/button14"
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="320dp"
+        android:background="@drawable/custom_button2"
+        android:text="DALHOUSIE"
+        android:textColor="@color/whatsAppcolor" />
+
+    <Button
+        android:id="@+id/button15"
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="380dp"
+        android:background="@drawable/custom_button2"
+        android:text="NARKANDA"
+        android:textColor="@color/whatsAppcolor" />
+
+    <Button
+        android:id="@+id/button16"
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="440dp"
+        android:background="@drawable/custom_button2"
+        android:text="MANALI"
+        android:textColor="@color/whatsAppcolor" />
+
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="117dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/custom_button2"
+        android:text="HIMACHAL"
+        android:textAlignment="center"
+        android:textColor="@color/whatsAppcolor"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/hp26"
+        android:onClick="hp26"
+        android:layout_width="53dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="200dp"
+        android:background="@drawable/round_button"
+        android:textColor="@color/white"
+        android:text="D" />
+
+    <Button
+        android:id="@+id/hp27"
+        android:layout_width="53dp"
+        android:onClick="hp27"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="260dp"
+        android:background="@drawable/round_button"
+        android:textColor="@color/white"
+        android:text="D" />
+
+    <Button
+        android:id="@+id/hp28"
+        android:layout_width="53dp"
+        android:onClick="hp28"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="320dp"
+        android:background="@drawable/round_button"
+        android:textColor="@color/white"
+        android:text="D" />
+
+    <Button
+        android:id="@+id/hp29"
+        android:layout_width="53dp"
+        android:onClick="hp29"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="380dp"
+        android:background="@drawable/round_button"
+        android:textColor="@color/white"
+        android:text="D" />
+
+    <Button
+        android:id="@+id/hp30"
+        android:layout_width="53dp"
+        android:onClick="hp30"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="440dp"
+        android:background="@drawable/round_button"
+        android:textColor="@color/white"
+        android:text="D" />
+
+
+
+</FrameLayout>

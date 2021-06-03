@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".hp1_fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="200dp"
+        android:background="@drawable/custom_button"
+        android:text="JIBHI VALLEY"
+        android:textColor="#FA71CD" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="260dp"
+        android:background="@drawable/custom_button"
+        android:text="KASOL"
+        android:textColor="#FA71CD" />
+
+    <Button
+        android:id="@+id/button14"
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="320dp"
+        android:background="@drawable/custom_button"
+        android:text="KALPA"
+        android:textColor="#FA71CD" />
+
+    <Button
+        android:id="@+id/button15"
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="380dp"
+        android:background="@drawable/custom_button"
+        android:text="KAZA"
+        android:textColor="#FA71CD" />
+
+    <Button
+        android:id="@+id/button16"
+        android:layout_width="182dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="440dp"
+        android:background="@drawable/custom_button"
+        android:text="NAHAN"
+        android:textColor="#FA71CD" />
+
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="110dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/custom_button"
+        android:text="HIMACHAL"
+        android:textAlignment="center"
+        android:textColor="#FA71CD"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/hp21"
+        android:onClick="hp21"
+        android:layout_width="53dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="200dp"
+        android:background="@drawable/round_button"
+        android:textColor="@color/white"
+        android:text="D" />
+
+    <Button
+        android:id="@+id/hp22"
+        android:layout_width="53dp"
+        android:onClick="hp22"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="260dp"
+        android:background="@drawable/round_button"
+        android:textColor="@color/white"
+        android:text="D" />
+
+    <Button
+        android:id="@+id/hp23"
+        android:layout_width="53dp"
+        android:onClick="ghp23"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="320dp"
+        android:background="@drawable/round_button"
+        android:textColor="@color/white"
+        android:text="D" />
+
+    <Button
+        android:id="@+id/hp24"
+        android:layout_width="53dp"
+        android:onClick="hp24"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="380dp"
+        android:background="@drawable/round_button"
+        android:textColor="@color/white"
+        android:text="D" />
+
+    <Button
+        android:id="@+id/hp25"
+        android:layout_width="53dp"
+        android:onClick="hp25"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="440dp"
+        android:background="@drawable/round_button"
+        android:textColor="@color/white"
+        android:text="D" />
+
+
+</FrameLayout>
